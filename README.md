@@ -1,0 +1,1 @@
+# python-for-loop-task-6-
